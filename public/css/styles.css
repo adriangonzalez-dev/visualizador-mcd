@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg_img{
+    background-image: url('/public/img/PA_MCD_COMBOS_DOBLES_POLLO_V_Combos_01.jpg');
+}

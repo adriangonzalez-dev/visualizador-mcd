@@ -1,0 +1,822 @@
+{
+	"mediaName": "PA_MCD_COMBOS_DOBLES_POLLO_V_Cambia_Agranda_Combos_01",
+	"version": "3.1.2305.0501",
+	"country": "PA",
+	"necessarySkus": [
+		
+	],
+	"duration": 7,
+	"debugTags": false,
+	"debugNotAvailables": false,
+	"debugShowSkus": false,
+	"tags": [
+		{
+			"SKU": "26262",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 809.5,
+						"y": 704,
+						"h": 108
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 90,
+					"color": "#000000",
+					"fade": true,
+					"font": "Speedee-Bold",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 30,
+						"font": "Speedee-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 765,
+							"y": 750,
+							"h": 35
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 839,
+							"y": 715,
+							"h": 40
+						},
+						"font": "Speedee-Bold",
+						"fontSize": 40,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "42115",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 297.5,
+						"y": 324,
+						"h": 78
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 65,
+					"color": "#231F20",
+					"fade": true,
+					"font": "Speedee-Bold",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 21,
+						"font": "Speedee-Bold",
+						"color": "#231F20",
+						"position": {
+							"x": 265,
+							"y": 353,
+							"h": 25
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 320,
+							"y": 333,
+							"h": 26
+						},
+						"font": "Speedee-Bold",
+						"fontSize": 26,
+						"prefix": ".",
+						"color": "#231F20",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26957",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 830.5,
+						"y": 1572,
+						"h": 108
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 90,
+					"color": "#000000",
+					"fade": true,
+					"font": "Speedee-Bold",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 30,
+						"font": "Speedee-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 786,
+							"y": 1618,
+							"h": 35
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 860,
+							"y": 1583,
+							"h": 40
+						},
+						"font": "Speedee-Bold",
+						"fontSize": 40,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26262",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 546.5,
+						"y": 764,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 517,
+							"y": 763,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 554,
+							"y": 764,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26159",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 545.5,
+						"y": 806,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 516,
+							"y": 805,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 553,
+							"y": 806,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26094",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 545.5,
+						"y": 850,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 516,
+							"y": 849,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 553,
+							"y": 850,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26096",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 545.5,
+						"y": 894,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 516,
+							"y": 893,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 553,
+							"y": 894,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "1263",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 546.5,
+						"y": 938,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 517,
+							"y": 937,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 554,
+							"y": 938,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26957",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 669.5,
+						"y": 1635,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 640,
+							"y": 1634,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 677,
+							"y": 1635,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "26959",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 669.5,
+						"y": 1677,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 640,
+							"y": 1676,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 677,
+							"y": 1677,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "49415",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 671.5,
+						"y": 1722,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 642,
+							"y": 1721,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 679,
+							"y": 1722,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "49641",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 672.5,
+						"y": 1768,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 643,
+							"y": 1767,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 680,
+							"y": 1768,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		},
+		{
+			"SKU": "49644",
+			"debugPrice": 9.9,
+			"timelines": [
+				{
+					"position": {
+						"x": 672.5,
+						"y": 1813,
+						"h": 51
+					},
+					"duration": 1000000,
+					"rotation": 0,
+					"timePosition": 0,
+					"fontSize": 46,
+					"color": "#000000",
+					"fade": true,
+					"font": "SpeedeeCondensed-Regular",
+					"separator": null,
+					"centered": true,
+					"prefix": {
+						"char": "$",
+						"fontSize": 46,
+						"font": "SpeedeeCondensed-Regular",
+						"color": "#000000",
+						"position": {
+							"x": 643,
+							"y": 1812,
+							"h": 51
+						}
+					},
+					"decimals": {
+						"position": {
+							"x": 680,
+							"y": 1813,
+							"h": 46
+						},
+						"font": "SpeedeeCondensed-Regular",
+						"fontSize": 46,
+						"prefix": ".",
+						"color": "#000000",
+						"digits": 2
+					}
+				}
+			]
+		}
+	],
+	"notAvailables": [
+		{
+			"SKU": "26262",
+			"timelines": [
+				{
+					"position": {
+						"x": 711,
+						"y": 638
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 220,
+					"scale": 20,
+					"src": "images/Globo_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "42115",
+			"timelines": [
+				{
+					"position": {
+						"x": 254,
+						"y": 314
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 138,
+					"scale": 20,
+					"src": "images/Globo_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26957",
+			"timelines": [
+				{
+					"position": {
+						"x": 733,
+						"y": 1508
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 220,
+					"scale": 20,
+					"src": "images/Globo_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26262",
+			"timelines": [
+				{
+					"position": {
+						"x": 504.648364607089,
+						"y": 755.609057244087
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 103.703270785822,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26159",
+			"timelines": [
+				{
+					"position": {
+						"x": 504.084377159551,
+						"y": 797.283935068447
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 104.831245680898,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26094",
+			"timelines": [
+				{
+					"position": {
+						"x": 504.339171502154,
+						"y": 841.430816513006
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 104.321656995692,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26096",
+			"timelines": [
+				{
+					"position": {
+						"x": 504.554107816579,
+						"y": 885.554720976616
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 103.891784366842,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "1263",
+			"timelines": [
+				{
+					"position": {
+						"x": 504.789023456774,
+						"y": 930.690142933905
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 103.421953086452,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26957",
+			"timelines": [
+				{
+					"position": {
+						"x": 630.143680220783,
+						"y": 1624.31812153904
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 104.712639558434,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "26959",
+			"timelines": [
+				{
+					"position": {
+						"x": 630.558607134681,
+						"y": 1669.55731470117
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 103.882785730638,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "49415",
+			"timelines": [
+				{
+					"position": {
+						"x": 630.228511364093,
+						"y": 1714.36702419812
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 104.542977271813,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "49641",
+			"timelines": [
+				{
+					"position": {
+						"x": 630.269985140628,
+						"y": 1757.39093261048
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 104.460029718744,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		},
+		{
+			"SKU": "49644",
+			"timelines": [
+				{
+					"position": {
+						"x": 630.851557340575,
+						"y": 1802.72619187868
+					},
+					"duration": 1000000,
+					"timePosition": 0,
+					"width": 103.29688531885,
+					"scale": 20,
+					"src": "images/Lista_PA.png",
+					"fade": true
+				}
+			]
+		}
+	]
+}
